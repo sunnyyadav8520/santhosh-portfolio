@@ -21,7 +21,7 @@ import {
 } from "lucide-react";
 
 const brandMark = "/manus-storage/ys-analysis-mark_c3e77818.png";
-const heroImage = "/manus-storage/santhosh-hero-data-studio_70b0c1a0.jpg";
+const profileImage = "/manus-storage/Yadava_Santhosh_Profile_ac7e7b5e.png";
 
 const projects = [
   {
@@ -141,7 +141,7 @@ export default function Home() {
         </nav>
 
         <a className="header-availability" href="mailto:sunnyyadav8520@gmail.com">
-          <i aria-hidden="true" /> Available for opportunities
+          <i aria-hidden="true" /> Available for analyst, QC & R&D roles
         </a>
       </header>
 
@@ -184,14 +184,14 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="hero-visual" aria-label="An editorial workspace that represents data analysis and biotechnology">
+          <div className="hero-visual" aria-label="Professional portrait of Yadava Santhosh">
             <div className="hero-image-frame">
-              <img src={heroImage} alt="Analytical workspace with charts, notes, and laboratory glassware" />
+              <img src={profileImage} alt="Yadava Santhosh in a professional portrait" />
             </div>
             <div className="hero-stamp">
               <span>DATA</span>
               <strong>ANALYST</strong>
-              <small>BUSINESS INSIGHTS<br />· CONSULTING</small>
+              <small>DATA · QUALITY CONTROL<br />· RESEARCH & DEVELOPMENT</small>
             </div>
             <div className="hero-data-note" aria-hidden="true">
               <span className="dot dot-rust" />
@@ -304,7 +304,7 @@ export default function Home() {
               <h3>Bachelor of Science<br /><em>Biotechnology</em></h3>
               <div className="degree-rule" />
               <p>Parul University, Gujarat</p>
-              <strong>First Class</strong>
+              <strong>2023–2026 · First Class</strong>
             </article>
             <article className="learning-card">
               <div className="learning-topline"><Sparkles size={18} strokeWidth={1.6} /> <span>Continuous learning</span></div>
@@ -316,13 +316,26 @@ export default function Home() {
               </div>
             </article>
           </div>
+          <div className="school-history" aria-label="School education">
+            <p className="school-history-label">Earlier education</p>
+            <article>
+              <span>2021–2023</span>
+              <div><h3>Intermediate</h3><p>Narayana Junior College</p></div>
+              <GraduationCap size={20} strokeWidth={1.45} aria-hidden="true" />
+            </article>
+            <article>
+              <span>Before 2021</span>
+              <div><h3>10th Class</h3><p>Kasturi E.M. High School</p></div>
+              <GraduationCap size={20} strokeWidth={1.45} aria-hidden="true" />
+            </article>
+          </div>
         </section>
 
         <section id="contact" className="contact-section" aria-labelledby="contact-title">
           <div className="contact-main">
             <p className="section-kicker light"><span>04</span><i aria-hidden="true" /><span>Let’s connect</span></p>
             <h2 id="contact-title">Have a data challenge<br />worth <em>exploring?</em></h2>
-            <p>I’m interested in entry-level data analyst and consulting opportunities where thoughtful analysis can contribute to real decisions.</p>
+            <p>I’m available for data analyst, quality control, and research & development roles where careful analysis and scientific discipline can support meaningful decisions.</p>
             <a className="contact-email" href="mailto:sunnyyadav8520@gmail.com">
               sunnyyadav8520@gmail.com <ArrowUpRight size={24} strokeWidth={1.6} />
             </a>

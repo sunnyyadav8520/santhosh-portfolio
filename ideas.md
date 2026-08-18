@@ -40,3 +40,7 @@ The user requested a portfolio **just like** the supplied Y Eswar portfolio. The
 | Portfolio work | Superstore, Rapido, Uber analyses | Three project studies with tools, themes, and outcomes |
 | Credentials | NPTEL Biotechnology and applied Power BI / Excel learning | Compact certification panel |
 | Contact | User-supplied links and details | Email, phone, GitHub, LinkedIn, and downloadable resume |
+
+## Approved Content Updates
+
+The hero now uses the supplied professional portrait inside the same offset editorial frame as the reference. Availability language is specific to **Data Analyst, Quality Control, and Research & Development** roles. The education story includes B.Sc. Biotechnology at Parul University (2023–2026, First Class), Intermediate at Narayana Junior College (2021–2023), and 10th Class at Kasturi E.M. High School.
