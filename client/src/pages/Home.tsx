@@ -30,8 +30,8 @@ import { LivingSystemsCanvas } from "@/components/LivingSystemsCanvas";
 
 type RoleKey = "analytics" | "quality" | "research" | "laboratory";
 
-const profileImage = "/manus-storage/Yadava_Santhosh_Profile_ac7e7b5e.png";
-const brandMark = "/manus-storage/ys-analysis-mark_c3e77818.png";
+const profileImage = "/Yadava_Santhosh_Profile.png";
+const brandMark = "/ys-analysis-mark.png";
 
 const roleContent: Record<RoleKey, { label: string; eyebrow: string; title: string; copy: string; Icon: typeof ChartNoAxesCombined }> = {
   analytics: {
@@ -113,7 +113,7 @@ export default function Home() {
             <p className="hero-lead">Yadava Santhosh is a Biotechnology graduate with growing data fluency, a quality-conscious approach, and an interest in contributing across analytical, laboratory, Quality Control, and Research & Development environments.</p>
             <div className="hero-actions">
               <a className="signal-button" href="#roles">Explore role fit <ArrowDownRight size={18} /></a>
-              <a className="hero-text-link" href="/manus-storage/Yadava_Santhosh_Resume_1e4a65ba.pdf" target="_blank" rel="noreferrer"><Download size={16} />Download résumé</a>
+              <a className="hero-text-link" href="/Yadava_Santhosh_Resume.pdf" target="_blank" rel="noreferrer"><Download size={16} />Download résumé</a>
             </div>
             <div className="hero-contacts">
               <a href="https://github.com/sunnyyadav8520" target="_blank" rel="noreferrer"><Github size={16} />GitHub</a>
