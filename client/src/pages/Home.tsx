@@ -125,7 +125,7 @@ export default function Home() {
             <div className="specimen-ruler top" aria-hidden="true" /><div className="specimen-ruler right" aria-hidden="true" />
             <img src={profileImage} alt="Yadava Santhosh in professional attire" />
             <div className="specimen-index"><span>YS–BIO–26</span><span>01/04</span></div>
-            <div className="portrait-identity"><span><Sparkles size={14} />Candidate profile</span><strong>Biotechnology<br />+ evidence</strong></div>
+            <div className="portrait-identity"><span><Sparkles size={14} />Candidate profile · Biotechnology + evidence</span><strong>Yadava<br />Santhosh</strong></div>
           </aside>
           <div className="hero-scope"><span>Role scope</span><b>Analytics<br />Quality<br />Research<br />Laboratory</b></div>
         </section>
