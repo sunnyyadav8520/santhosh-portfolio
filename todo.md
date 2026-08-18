@@ -9,15 +9,15 @@
 
 ## Vercel Deployment Handoff
 
-- [ ] Confirm the Vercel deployment method available to the user.
-- [ ] Validate the production build and add a Vercel configuration file if it improves compatibility.
-- [ ] Provide the Vercel-ready project handoff and deployment steps.
+- [x] Confirm the Vercel deployment method available to the user.
+- [x] Validate the production build and add a Vercel configuration file if it improves compatibility.
+- [x] Provide the Vercel-ready project handoff and deployment steps.
 
 ## GitHub Export
 
-- [ ] Confirm the GitHub repository destination and export route.
-- [ ] Add the Vercel deployment configuration and instructions to the project.
-- [ ] Export the completed portfolio to the user’s GitHub account for personal Vercel deployment.
+- [x] Confirm the GitHub repository destination and export route.
+- [x] Add the Vercel deployment configuration and instructions to the project.
+- [x] Export the completed portfolio to the user’s GitHub account for personal Vercel deployment.
 - [x] Add the B.Sc. Biotechnology duration: 2023–2026.
 - [x] Add Intermediate education: Narayana Junior College, 2021–2023.
 - [x] Add 10th Class education: Kasturi E.M. High School.
