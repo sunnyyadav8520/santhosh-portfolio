@@ -1,4 +1,4 @@
-/** Visual Direction: Analytical Editorial — preserve a light theme for the parchment and ink portfolio system. */
+/** Visual Direction: Living Systems Canvas — preserve the deep research-blue theme for the dynamic biotech portfolio. */
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
@@ -28,7 +28,7 @@ function App() {
   return (
     <ErrorBoundary>
       <ThemeProvider
-        defaultTheme="light"
+        defaultTheme="dark"
         // switchable
       >
         <TooltipProvider>

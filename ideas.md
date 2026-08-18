@@ -1,46 +1,56 @@
-# Yadava Santhosh Portfolio — Visual Direction
+# Yadava Santhosh Portfolio — Dynamic Biotechnology Redesign
 
-## Ground-Truth Reference
+## Theme Exploration
 
-The user requested a portfolio **just like** the supplied Y Eswar portfolio. The chosen direction therefore treats the reference as the visual ground truth: a calm, light editorial portfolio with a thin ruled navigation bar, a generous split hero, expressive display typography, small uppercase metadata, a compact portrait/graphic panel, warm rust accents, and dense project-led sections. The resulting site will retain this hierarchy and interaction language while using Yadava Santhosh’s own biography, educational background, and data-analytics projects.
+### Theme Name: Living Systems Canvas
 
-## Chosen Approach: Analytical Editorial
+**Very Brief Intro:** A scientific field-notebook transformed into an interactive visual environment, where a responsive canvas carries biomolecular paths, data points, and research signals behind the professional story. It feels curious, contemporary, and capable across biotech and analytical roles.
 
-**Design Movement:** Contemporary editorial design with restrained Swiss-influenced information hierarchy and a warm research-journal palette.
+**Probability:** 0.071
 
-**Core Principles:** The page should feel composed rather than template-like. Strong typography carries the hierarchy; every section uses thin rules and measured whitespace; project evidence is presented as clear analytical narratives; rust is reserved for active states and high-priority actions.
+### Theme Name: Cleanroom Signal
 
-**Color Philosophy:** A parchment background makes the site feel human, thoughtful, and readable. Nearly-black ink delivers confidence and clarity. Warm rust signals action and ambition, while deep teal anchors the analytical identity without turning the page into a generic corporate dashboard.
+**Very Brief Intro:** A high-precision, laboratory-inspired interface using white space, cobalt calibration marks, and clinical typography. The tone is methodical, highly controlled, and quality-assurance focused.
 
-**Layout Paradigm:** A vertical editorial story. The hero uses an asymmetric two-column composition with a framed analytical visual at the right; sections flow through a ruled, magazine-like cadence rather than a card-grid landing page.
+**Probability:** 0.043
 
-**Signature Elements:** A thin rust horizontal rule paired with metadata labels, chart-inspired micro-graphics with teal and rust data marks, and offset frames behind prominent images or visual panels.
+### Theme Name: Research Atlas
 
-**Interaction Philosophy:** Navigation scrolls directly to content. Links and project cards respond with precise underlines, small directional movement, and clear focus treatment—quiet feedback rather than decorative spectacle.
+**Very Brief Intro:** An editorial map of disciplines that connects biotechnology, quality, research, and analytics through layered cards and cartographic linework. The atmosphere is broad, exploratory, and academic.
 
-**Animation:** Use brief 180–260ms opacity and transform transitions. Sections may reveal with a subtle stagger on first view. All nonessential movement is disabled for reduced-motion preferences. Buttons compress slightly on press and project cards lift by only a few pixels on hover.
+**Probability:** 0.086
 
-**Typography System:** `DM Serif Display` provides character for name, major headings, and numbers; `Manrope` keeps body copy, navigation, labels, and project detail clean and legible. Small labels are uppercase, letter-spaced, and deliberately compact.
+## Chosen Approach: Living Systems Canvas
 
-**Brand Essence:** A data-analytics portfolio for an entry-level analyst who combines biotechnology discipline with business-focused analysis. **Curious, methodical, practical.**
+**Design Movement:** Bio-digital editorialism—a synthesis of contemporary scientific visualization, laboratory notebooks, and richly composed web canvas art.
 
-**Brand Voice:** Headlines should be succinct and purposeful; CTAs should be direct and human. Example lines: “Turning raw data into decisions.” and “Explore the work behind the dashboard.” Avoid generic greetings and inflated claims.
+**Core Principles:** The landing page must establish a whole-life-sciences professional identity rather than narrowly presenting an analyst. It will use one interactive canvas as the visual substrate, mixing flowing pathways, cellular forms, and analytical scatter points. Content should be revealed through a disciplined asymmetric composition with crisp, readable evidence cards. Motion should give an impression of ongoing inquiry rather than entertainment.
 
-**Wordmark & Logo:** A monogram built from a stepped `YS` mark—suggesting both a chart axis and a growing insight curve—paired with a compact, letter-spaced wordmark. The logo will be drawn as an accessible inline SVG mark, not default text.
+**Color Philosophy:** The palette moves away from parchment and rust toward a biological night-garden: deep ink-blue creates research depth, bone-white protects readability, chlorophyll green communicates biological systems, and a limited coral signal indicates activity. The color relationship conveys laboratory integrity, growth, and decision-ready evidence.
 
-**Signature Brand Color:** **Analysis Rust — #B94A2C.**
+**Layout Paradigm:** The hero acts as a split research canvas: an always-on visual field sits beneath the left-aligned professional story, while a portrait appears in a clipped specimen-window at the right. Following content flows through a nonuniform research route—capability constellation, evidence cases, experience timeline, and contact station—rather than a conventional stacked card grid.
 
-## Content Model
+**Signature Elements:** A canvas-driven network of slow-moving nodes and curved pathways; specimen-window frames with registration marks; and role compass chips that reveal the candidate’s cross-functional strengths.
 
-| Area | Source of truth | Website expression |
+**Interaction Philosophy:** Hovering or tapping a role chip should focus the canvas color and surface a role-relevant lens. Project blocks will respond with a small geometric shift and directional cue. The experience remains completely usable without motion and adapts to reduced-motion settings.
+
+**Animation:** The canvas uses low-velocity motion capped at calm levels. Nodes drift, connections gently breathe, and a single highlighted signal moves along a pathway. Page elements enter with 180–260ms opacity and transform transitions. All nonessential animation is disabled for reduced-motion preferences.
+
+**Typography System:** `Space Grotesk` is the technical voice for navigation, labels, metrics, and capability cards. `DM Serif Display` is retained only as the distinctive human voice for major statements and career direction. The contrast supports both scientific precision and individual ambition.
+
+**Brand Essence:** A biotechnology graduate who translates scientific discipline and data fluency into reliable work across analytics, quality, research, and laboratory roles. **Investigative, disciplined, adaptable.**
+
+**Brand Voice:** Headlines are evidence-led and intentional. CTAs are clear and contribution-focused. Example lines: “Science-minded. Data-aware. Ready to contribute.” and “Explore the systems behind the work.” Avoid generic welcomes, buzzwords, and inflated seniority.
+
+**Wordmark & Logo:** The `YS` monogram will act as a laboratory registration mark: a compact signal glyph embedded in a square specimen label, with a small coral calibration dot.
+
+**Signature Brand Color:** **Chlorophyll Signal — #9EDB75.**
+
+## Positioning Framework
+
+| Career path | Supporting evidence | Website expression |
 | --- | --- | --- |
-| Professional identity | Resume objective | Entry-level Data Analyst / Consulting candidate | 
-| Education | B.Sc. Biotechnology, Parul University, First Class | Education timeline with interdisciplinary positioning |
-| Technical strengths | Power BI, DAX, Excel, Python, SQL basics, manual testing | Skill clusters with focused descriptions |
-| Portfolio work | Superstore, Rapido, Uber analyses | Three project studies with tools, themes, and outcomes |
-| Credentials | NPTEL Biotechnology and applied Power BI / Excel learning | Compact certification panel |
-| Contact | User-supplied links and details | Email, phone, GitHub, LinkedIn, and downloadable resume |
-
-## Approved Content Updates
-
-The hero now uses the supplied professional portrait inside the same offset editorial frame as the reference. Availability language is specific to **Data Analyst, Quality Control, and Research & Development** roles. The education story includes B.Sc. Biotechnology at Parul University (2023–2026, First Class), Intermediate at Narayana Junior College (2021–2023), and 10th Class at Kasturi E.M. High School.
+| Data Analyst | Power BI, DAX, Excel, Python, three analysis projects | Data-pattern and dashboard evidence lens |
+| Quality Control | Biotechnology degree, laboratory data handling, manual testing, attention to detail | Process integrity and documentation lens |
+| Research & Development | Biotechnology, NPTEL credential, analytical curiosity, data exploration | Research inquiry and methods lens |
+| Laboratory roles | Biotechnology degree, laboratory data handling, first-class result | Scientific discipline and observation lens |
