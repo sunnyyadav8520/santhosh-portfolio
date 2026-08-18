@@ -1,3 +1,4 @@
+/** Visual Direction: Analytical Editorial — preserve a light theme for the parchment and ink portfolio system. */
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
